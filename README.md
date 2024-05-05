@@ -18,7 +18,7 @@ m
 conv_fac = 0.621371
 
 # calculate milesdsf
-miles = kilometers * conv_facs = 0.621371
+miles = kilometers * conv_facs = 0.621371ADS
 print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,mileasds))
 xdcx  nnnoljkjko
 erni
