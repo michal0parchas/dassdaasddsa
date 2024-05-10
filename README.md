@@ -19,10 +19,10 @@ conv_fac = 0.621371fdfd
 
 # calculate milesdsf
 miles = kilometers * conv_facs = 0.621371ADS
-print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,mileasds))
+print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,mildaseasds))
 xdcx  nnnoljkjko
 erni
-212112
+212112as
 conv=32tgyf
 23w
 wwbbjkjkb
