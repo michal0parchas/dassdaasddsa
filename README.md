@@ -12,7 +12,7 @@ xczzxc
 asq345
 dont read me
 # Taking kilometers input from the user132qwe
-kilometers = float(input("Enter value in kilometers: "))dassd
+kilometers = float(input("Enter value qwin kilometers: "))dassd
 mads
 # conversion factordsad
 conv_fac = 0.621371fdfd
